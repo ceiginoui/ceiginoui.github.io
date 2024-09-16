@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ceiginoui.github.io/sitemap.html.gz
+Sitemap: https://ceiginoui.github.io/app/sitemap.html.gz
+Sitemap: https://ceiginoui.github.io/assets/sitemap.html.gz
+Sitemap: https://ceiginoui.github.io/css/sitemap.html.gz
+Sitemap: https://ceiginoui.github.io/includes/sitemap.html.gz
+Sitemap: https://ceiginoui.github.io/item/sitemap.html.gz
+Sitemap: https://ceiginoui.github.io/src/sitemap.html.gz
